@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DAs1UGHr.js";var t={},n=e(),r=({className:e,children:r})=>(0,n.jsx)(`div`,{className:`${t.moduleScope} container${e?` ${e}`:``}`,children:r});export{r as t};

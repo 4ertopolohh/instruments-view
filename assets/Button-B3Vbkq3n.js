@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DAs1UGHr.js";var t={},n=e(),r=({variant:e=`primary`,block:r=!1,className:i,children:a,...o})=>(0,n.jsx)(`button`,{className:`${t.moduleScope} ui-button ui-button--${e}${r?` ui-button--block`:``}${i?` ${i}`:``}`,...o,children:a});export{r as t};

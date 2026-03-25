@@ -1,0 +1,1 @@
+var e=`https://instrument.ru`,t=t=>t.startsWith(`http`)?t:`${e}${t}`;export{t};
